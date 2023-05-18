@@ -1,4 +1,4 @@
-# ProjetoTesteCamilly
+# Projeto Web com Banco de Dados - Camilly
 
 Adicionar ao projeto teste os seguintes elementos:
 
